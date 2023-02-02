@@ -8,17 +8,9 @@ int main() {
     printf("Abbrechen (j/n)?\n");
     scanf(" %c", &test );
     
-    }while (test!='j');
-    
-    
-    
-    
-    
- 
-    
-    
-
-
+    }
+    while (test!='j');
+   
     return 0;
 
 }
